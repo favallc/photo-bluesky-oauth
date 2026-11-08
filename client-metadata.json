@@ -1,9 +1,9 @@
 {
-  "client_id": "https://beerandnosh.github.io/photo-bluesky-oauth/client-metadata.json",
+  "client_id": "https://favallc.github.io/photo-bluesky-oauth/client-metadata.json",
   "application_type": "native",
   "client_name": "Pushsky",
   "redirect_uris": [
-    "io.github.beerandnosh:/oauth/callback"
+    "io.github.favallc:/oauth/callback"
   ],
   "grant_types": [
     "authorization_code",
