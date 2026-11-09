@@ -1,7 +1,7 @@
 {
   "client_id": "https://favallc.github.io/photo-bluesky-oauth/client-metadata.json",
   "application_type": "native",
-  "client_name": "Pushsky",
+  "client_name": "EXIF Ramp",
   "redirect_uris": [
     "io.github.favallc:/oauth/callback"
   ],
